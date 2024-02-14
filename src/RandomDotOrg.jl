@@ -19,8 +19,7 @@ Github repository at: https://github.com/edwcarney/RandomDotOrg
 """
 module RandomDotOrg
 
-import HTTP
-import  Printf
+using HTTP, Printf
 export  getQuota, checkQuota, random_numbers, random_sequences, random_strings, random_gaussian,
         random_decimal_fractions, random_bytes, random_bitmap
 

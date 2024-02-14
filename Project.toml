@@ -1,4 +1,8 @@
-name = "RandomDotOrg"
+name = "RandomDotOrg2"
+uuid = "0a1e6b34-b9a4-4dd4-a5c5-b783a01d3f48"
+authors = ["edwcarney <carne006@gmail.com>"]
+version = "0.1.0"
+
 [deps]
 HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"

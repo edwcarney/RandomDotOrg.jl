@@ -7,7 +7,7 @@ From the RANDOM.ORG <a href="https://www.random.org/faq">FAQ (Q4.1)</a>:
 
 # Current functions
 <b>getQuota()</b>&mdash;obtain current bit quota for your IP<br>
-<b>checuota()</b>&mdash;check if quota is non-zero<br>
+<b>checkQuota()</b>&mdash;check if quota is non-zero<br>
 <b>random_numbers()</b>&mdash;obtain integers<br>
 <b>random_sequence()</b>&mdash;obtain randomized sequences of integers 1..N<br>
 <b>random_strings()</b>&mdash;obtain random strings of characters (upper/lower case letters, digits)<br>
